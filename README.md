@@ -1,4 +1,4 @@
-## Part 1: media queries
+## Part 1: Media Queries
 In this exercise, you're going to convert a layout which was designed for mobile to also work on tablet and desktop browsers.
 
 1.  For screens bigger than 480 pixels:
@@ -15,5 +15,5 @@ In this exercise, you're going to update a profile page. You need to replace th
 
 1.  Removing the `.row:after` rule
 2.  Add a rule for `.row` elements that makes it a flex container
-3.  Instruct `.column_ elements` to take up a proportionate amount of space using the `flex` property
+3.  Instruct `.column` elements to take up a proportionate amount of space using the `flex` property
 4.  Remove explicit widths from `.column`
