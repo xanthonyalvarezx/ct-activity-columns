@@ -1,4 +1,4 @@
-## Part 1
+## Part 1: media queries
 In this exercise, you're going to convert a layout which was designed for mobile to also work on tablet and desktop browsers.
 
 1.  For screens bigger than 480 pixels:
@@ -9,7 +9,7 @@ In this exercise, you're going to convert a layout which was designed for mobil
 
 When done correctly, the tablet view (greater than 480 pixels) should have a full-height sidebar and one column of sections. Conversely, the desktop view (greater than 640 pixels) should have a sidebar and sections that fit on a single row.
 
-## Part 2: Practice: Flexbox Layout 
+## Part 2: Flexbox Layout 
 
 In this exercise, you're going to update a profile page. You need to replace the use of floats with the more modern Flexbox by:
 
