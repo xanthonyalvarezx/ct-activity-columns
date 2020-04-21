@@ -42,12 +42,31 @@ body {
     flex-direction: column;
   }
   
+
+   
+  
   aside, section {
     flex: 1;
   }
   
   @media (min-width: 480px) {
-  }
+    article{
+      flex-wrap: wrap;
+      flex-direction: row;
+      justify-content: space-evenly;
+      
+    }
+
+    
+    
+    
+     
+      
+      
+    }
+
   
   @media (min-width: 640px) {
   }
+    
+    
